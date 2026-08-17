@@ -1,0 +1,13 @@
+# 打包产物与临时文件
+dist/
+build/
+__pycache__/
+*.pyc
+
+# 录制输出
+recordings/
+
+# 编辑器/系统
+.idea/
+.vscode/
+Thumbs.db
